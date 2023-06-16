@@ -34,7 +34,7 @@ body {
 }
 
 #main-content {
-  background: url("../images/ramen-stall.jpg");
+  background-image: url("../images/ramen-stall.jpg");
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
