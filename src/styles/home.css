@@ -1,0 +1,9 @@
+#home-content {
+  background-color: rgba(119, 136, 153, 0.753);
+
+  border-radius: 50px;
+
+  font-size: 2rem;
+  padding: 50px;
+  margin: 10px 50px;
+}
