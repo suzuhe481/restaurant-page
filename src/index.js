@@ -1,6 +1,7 @@
 import "./styles/style.css";
 import "./styles/home.css";
 import "./styles/contact.css";
+import "./styles/menu.css";
 
 import navbar from "./components/navbar";
 import mainContent from "./components/mainContent";
