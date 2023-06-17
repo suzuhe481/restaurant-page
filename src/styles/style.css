@@ -35,11 +35,10 @@ body {
 
 #main-content {
   background-image: url("../images/ramen-stall.jpg");
-  background-position: center center;
+  background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 
-  height: 100vh;
-  width: auto;
+  min-height: 100vh;
 }
